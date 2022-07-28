@@ -1,5 +1,5 @@
 
-# HotePayant/PG Management System-Web Development(Front End)
+# HotePayant/PG Management System-Web Development
 In HotePayant project we use HTML,CSS and JavaScript. It has two modules:-
 
 1.PG Owner Module
@@ -34,4 +34,4 @@ Registered users can do the following activity
 
 4. Registered user can also recover his/her own password.
 
-The link for our Website is: https://shreyaskuntnal.github.io/PG-Management-System/
+The link for our Website is: https://hotepayant.great-site.net
