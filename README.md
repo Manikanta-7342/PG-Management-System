@@ -34,4 +34,4 @@ Registered users can do the following activity
 
 4. Registered user can also recover his/her own password.
 
-The link for our Website is: https://hotepayant.great-site.net
+The link for our Website is: http://hotepayant.great-site.net/
